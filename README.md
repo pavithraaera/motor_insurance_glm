@@ -124,4 +124,4 @@ These could be explored in a more advanced pricing project.
 
 ## Author
 
-Pavithra, actuarial science student 
+Pavithra, actuarial science student, statistics graduate
